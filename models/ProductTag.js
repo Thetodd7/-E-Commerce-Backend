@@ -33,7 +33,7 @@ ProductTag.init(
 
     }
   }
-    // define columns
+  
   },
   {
     sequelize,
